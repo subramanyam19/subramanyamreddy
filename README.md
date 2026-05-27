@@ -39,6 +39,8 @@ I enjoy exploring new technologies and continuously improving my coding skills.
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+---
+
 ### 🌐 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -79,6 +81,7 @@ I enjoy exploring new technologies and continuously improving my coding skills.
 - 🔗 Demo: https://github.com/subramanyam19/subramanyamreddy.git
 - 💻 Source Code:https://github.com/subramanyam19/subramanyamreddy.git
 
+---
 
 ### 🛠️ Tech Used
 - Python
@@ -121,13 +124,6 @@ python
 java
 sgl
 add this images
-
-## 🌱 Currently Learning
-
-- Advanced Python
-- Machine Learning
-- Software Engineering Concepts
-- SQL & Database Management
 
 ---
 

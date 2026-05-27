@@ -7,7 +7,7 @@
 
 ---
 
-<h1 align="center ## 🚀 About Me
+### 🚀 About Me
 
 🎓 B.Tech in Computer Science & Engineering  
 💻 Passionate about Python, AI, and Software Development  

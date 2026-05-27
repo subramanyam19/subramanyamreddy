@@ -76,8 +76,8 @@ I enjoy exploring new technologies and continuously improving my coding skills.
 - 🔹 Python, Pandas, Matplotlib
 - 🔹 Interactive charts and insights
 - 🔹 Real-world dataset analysis
-- 🔗 Demo: 
-- 💻 Source Code: https://github.com/your-username/dashboard
+- 🔗 Demo: https://github.com/subramanyam19/subramanyamreddy.git
+- 💻 Source Code:https://github.com/subramanyam19/subramanyamreddy.git
 
 
 ### 🛠️ Tech Used

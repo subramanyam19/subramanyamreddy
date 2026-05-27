@@ -72,6 +72,14 @@ I enjoy exploring new technologies and continuously improving my coding skills.
 🔹 Helps farmers with data-driven insights and automation techniques.  
 🔹 Focused on smart farming and modern agriculture improvements.
 
+### 📊 Project 3: Data Analytics Dashboard
+- 🔹 Python, Pandas, Matplotlib
+- 🔹 Interactive charts and insights
+- 🔹 Real-world dataset analysis
+- 🔗 Demo: https://your-demo-link.com
+- 💻 Source Code: https://github.com/your-username/dashboard
+
+
 ### 🛠️ Tech Used
 - Python
 - Machine Learning

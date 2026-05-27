@@ -66,17 +66,17 @@ I enjoy exploring new technologies and continuously improving my coding skills.
 
 ## 🚀 Featured Project
 
-### 🌾 Farming Process Made Easy Using Machine Learning
+### 📊 Project 1:🌾 Farming Process Made Easy Using Machine Learning
 
 🔹 An innovative agriculture solution using Machine Learning to improve farming efficiency and productivity.  
 🔹 Helps farmers with data-driven insights and automation techniques.  
 🔹 Focused on smart farming and modern agriculture improvements.
 
-### 📊 Project 3: Data Analytics Dashboard
+### 📊 Project 2: Data Analytics Dashboard
 - 🔹 Python, Pandas, Matplotlib
 - 🔹 Interactive charts and insights
 - 🔹 Real-world dataset analysis
-- 🔗 Demo: https://your-demo-link.com
+- 🔗 Demo: 
 - 💻 Source Code: https://github.com/your-username/dashboard
 
 

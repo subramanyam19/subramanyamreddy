@@ -47,8 +47,8 @@ I enjoy exploring new technologies and continuously improving my coding skills.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-## 🚀 Backend Skills
 
+### 🚀 Backend Skills
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/>
@@ -117,7 +117,7 @@ I enjoy exploring new technologies and continuously improving my coding skills.
 - Machine Learning & AI Basics
 - Backend Development (Node.js / Django)
 - Git & GitHub Workflow
-
+---
 ## 📈 Most Used Languages
 <p align="center>
 python 

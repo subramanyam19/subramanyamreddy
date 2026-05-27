@@ -108,6 +108,13 @@ I enjoy exploring new technologies and continuously improving my coding skills.
 
 ---
 
+## 🌱 Current Learning
+- Advanced Python Programming
+- Data Structures & Algorithms
+- Machine Learning & AI Basics
+- Backend Development (Node.js / Django)
+- Git & GitHub Workflow
+
 ## 📈 Most Used Languages
 <p align="center>
 python 

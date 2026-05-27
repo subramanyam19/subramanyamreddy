@@ -45,9 +45,13 @@ I enjoy exploring new technologies and continuously improving my coding skills.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-### <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce91cab5-1229-49c9-9aed-2e18ae4392a0" />
+## 🚀 Backend Skills
+
 <p>
-    <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b0a167d2-9a8f-449c-a3df-c406b511605d" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
 </p>
 
 

@@ -176,9 +176,7 @@ add this images
 
 ## 🐍 Contribution Snake animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/subbu-67/subbu-67/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![snake gif](https://github.com/subramanyam19/subramanyamreddy/blob/output/github-contribution-grid-snake.svg)
 
  
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>

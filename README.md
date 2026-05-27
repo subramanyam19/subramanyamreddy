@@ -11,7 +11,7 @@
 
 🎓 B.Tech in Computer Science & Engineering  
 💻 Passionate about Python, AI, and Software Development  
-🌱 Currently learning advanced software engineering concepts  <img width="1536" height="1024" alt="image" src="https://github.com/userattachments/assets/286984f3- 3e7c-4d51-971f-b8fab9205ea3" />
+🌱 Currently learning advanced software engineering concepts 
 🔍 Exploring Machine Learning and modern technologies  
 📍 Based in Tirupati, India                                 
 

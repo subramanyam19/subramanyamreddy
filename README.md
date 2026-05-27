@@ -11,12 +11,9 @@
 
 🎓 B.Tech in Computer Science & Engineering  
 💻 Passionate about Python, AI, and Software Development  
-🌱 Currently learning advanced software engineering concepts  
+🌱 Currently learning advanced software engineering concepts  <img width="1536" height="1024" alt="image" src="https://github.com/userattachments/assets/286984f3- 3e7c-4d51-971f-b8fab9205ea3" />
 🔍 Exploring Machine Learning and modern technologies  
-📍 Based in Tirupati, India 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
-</p>
+📍 Based in Tirupati, India                                 
 
 ### 💡 Career Goal
 To become a successful Software Engineer and contribute to innovative technology solutions.

@@ -54,7 +54,6 @@ I enjoy exploring new technologies and continuously improving my coding skills.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25"/>
 </p>
 
-
 ### ⚙️ Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>

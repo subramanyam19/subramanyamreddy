@@ -13,7 +13,10 @@
 💻 Passionate about Python, AI, and Software Development  
 🌱 Currently learning advanced software engineering concepts  
 🔍 Exploring Machine Learning and modern technologies  
-📍 Based in Tirupati, India  
+📍 Based in Tirupati, India 
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+</p>
 
 ### 💡 Career Goal
 To become a successful Software Engineer and contribute to innovative technology solutions.
